@@ -59,12 +59,13 @@
   {
     "id": 6,
     "title": "Teno",
-    "category": "fullart",
+    "category": "assessment",
     "images": [
       "Project/Art/MAT108_po.png"
     ],
     "description": "ss",
-    "link": "dsd"
+    "link": "Project/Assignment/assignment_3/Chicken.html"
   }
+  
 
 ]

@@ -1,0 +1,188 @@
+
+a:link{
+	color: #FF0000; 
+}  */
+a:visited{
+	color: #00FF00; 
+} 
+ a:hover{ 
+	color: #3300ff; 
+} 
+
+* {   
+
+   margin: 10;
+   padding: 0;
+   font-family: Garamond, 'Times New Roman', Times, serif;
+   text-align: center;
+   background-color: #ffabee;
+   font-size: 20pt;
+}
+
+h1{
+	font-size: 50pt;
+	color: rgb(255, 233, 233);
+	text-shadow: 2px 4px 5px rgb(0, 0, 0);
+	background-color: rgb(255, 172, 172);
+	border: 6px solid rgb(255, 140, 140);
+	border-radius: 50px;
+	width: 60%;
+	margin: auto;
+	padding: 10px;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    justify-content: center;
+}
+
+.div_display{
+    width:500px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+img{
+	width:50%;
+   border: 6px solid rgb(255, 140, 140);
+    border-radius: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 5% auto 20%;
+    grid-gap: 10px;
+
+}
+.grid-container > div{
+    border: 1px solid black;
+    font-size: 20px;
+	
+}
+ #header{
+    grid-column: 1 / span 3;
+	text-align: center;
+}
+
+#main1{
+    grid-column: 1 / span 1;
+}
+#main2{
+	text-align: center;
+    grid-column: 2 / span 1;
+}
+#right{
+    grid-column: 3 / span 1;
+}
+
+#footer{	text-align: center;
+
+    grid-column: 1 / span 3;
+} 
+
+
+
+
+@media only screen and (max-width: 768px) {
+	
+	.div_display{
+    width:100%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+	}
+
+	
+	img{
+	width:100%;
+	 border: 0px solid rgb(255, 140, 140);
+    border-radius: 5px;
+
+	}
+
+	.grid-container {
+		 display: grid;
+    grid-template-columns: 5% auto 50%;
+    grid-gap: 10px;
+	}
+	 #header{
+    grid-column: 1 / span 3;
+
+	}
+
+	#main1{
+    grid-column: 1 / span 1;
+	}
+	#main2{
+	text-align: center;
+    grid-column: 2 / span 1;
+	}
+	#right{
+    grid-column: 3 / span 1;
+	}
+
+	#footer{	text-align: center;
+
+    grid-column: 1 / span 3;
+	}	 
+
+}
+
+
+
+
+
+@media only screen and (max-width: 480px) {
+
+	.div_display{
+    width:100%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+	}
+
+	
+	img{
+	width:100%;
+	 border: 0px solid rgb(255, 140, 140);
+    border-radius: 5px;
+
+	}
+
+
+
+	.grid-container {
+		 display: grid;
+    grid-template-columns: 5% auto 50%;
+    grid-gap: 10px;
+	}
+	 #header{
+    grid-column: 1 / span 3;
+
+	}
+
+	#main1{
+    grid-column: 1 / span 1;
+	}
+	#main2{
+	text-align: center;
+    grid-column: 2 / span 1;
+	}
+	#right{
+    grid-column: 3 / span 1;
+	}
+
+	#footer{	text-align: center;
+
+    grid-column: 1 / span 3;
+	}	 
+
+
+}
