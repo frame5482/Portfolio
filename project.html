@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio - Amonphan Jamratsri</title>
+  <link rel="stylesheet" href="project.css" />
+  <script defer src="main.js"></script>
+</head>
+<body>
+
+  <header>
+    <h1>Amonphan Jamratsri</h1>
+    <nav id="main-nav">
+  <a id="nav-home" href="index.html">Home</a>
+  <a id="nav-project" href="project.html">Project</a>
+</nav>
+
+  </header>
+
+  <div class="tabs">
+    <button onclick="filterCategory('all')">All</button>
+    <button onclick="filterCategory('project')">Project</button>
+    <button onclick="filterCategory('fanart')">Fanart</button>
+    <button onclick="filterCategory('model3d')">3D Model</button>
+    <button onclick="filterCategory('character')">Character Design</button>
+    <button onclick="filterCategory('fullart')">Art</button>
+    <button onclick="filterCategory('animation')">Animation</button>
+    <button onclick="filterCategory('assessment')">Assessment MDT312</button>
+
+  </div>
+
+  <div id="works-container" class="gallery"></div>
+
+
+<div id="work" class="Content">
+  
+  <div class="Areacontent">
+    <span class="close" onclick="closeProject()">&times;</span>
+    <h2 id="Title"></h2>
+    <div id="ImageContainer" class="Content-images"></div>
+    <p id="Description"></p>
+    <div id="LinkContainer"></div>
+  </div>
+</div>
+
+
+
+  
+  <footer>
+    <p>© 2025 Frame - All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

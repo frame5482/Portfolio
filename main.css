@@ -1,0 +1,83 @@
+body {
+  font-family: "Prompt", sans-serif;
+  margin: 0;
+  background: #0e0e10;
+  color: #eee;
+  
+}
+
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 5% auto 20%;
+    grid-gap: 10px;
+
+}
+
+.intro {
+  padding: 50px 20px;
+  grid-column: 2 / span 3;
+  font-size: 20px;
+
+}
+.hade_profile {
+  display: grid;
+  /*place-items: center;*/
+  background-image: url('Project/Art/MAT108 Pro3 p.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  position: relative;
+}
+
+.profile-pic {
+  grid-column: 2 / span 3;
+
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid #660000;
+  box-shadow: 0 0 20px rgba(0,0,0,0.7);
+  background-color: rgba(255,255,255,0.1);
+}
+
+.contact {
+  
+  grid-column: 1 / span 3;
+}
+
+
+
+
+
+
+
+header {
+  background: #1f1f23;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 1;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 15px;
+  text-decoration: none;
+  background-color: #141414;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  border: 2px solid #ffffff;
+  
+}
+
+
+
