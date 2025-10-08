@@ -24,7 +24,7 @@ body {
 .hade_profile {
   display: grid;
   /*place-items: center;*/
-  background-image: url('Project/Art/MAT108 Pro3 p.png');
+  background-image: url('Project/Art/MAT108_Pro3_p.png');
   background-size: cover;
   background-position: center;
   width: 100%;
