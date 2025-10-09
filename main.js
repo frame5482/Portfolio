@@ -31,12 +31,11 @@ function Works(data) {
 
 function filterCategory(category) {
   const filtered = category === 'all'
-    ? worksData
-    : worksData.filter(item => item.category === category);
+    ? worksData : worksData.filter(item => item.category === category);
   Works(filtered);
 }
 
-
+/*เปิดปอปอัพ*/
 function showDetail(id) {
   const item = worksData.find(work => work.id === id);
   if (!item) return;
@@ -50,15 +49,24 @@ function showDetail(id) {
   imageContainer.innerHTML = '';
 
 
-
+  /*รูป*/
+  if (item.images && item.images.length > 1) {
   item.images.slice(0, 4).forEach(imgSrc => {
+  imageContainer.style.gridTemplateColumns = 'repeat(2, 1fr)';
     const img = document.createElement('img');
     img.src = imgSrc;
     imageContainer.appendChild(img);
   });
 
+  } else if (item.images && item.images.length === 1) {
+  imageContainer.style.gridTemplateColumns = 'repeat(1, 1fr)';
+  const img = document.createElement('img');
+  img.src = item.images[0];
+  imageContainer.appendChild(img);
+  }
 
 
+/*ลิงค์*/
   const linkContainer = document.getElementById('LinkContainer');
 linkContainer.innerHTML = ''; 
 if(item.link){
@@ -70,17 +78,17 @@ if(item.link){
 
 
   document.getElementById('work').style.display = 'flex';
-}
+}}
 
 
-}
+/*ปิดปอปอัพ*/
 function closeProject() {
   document.getElementById('work').style.display = 'none';
 }
-
-window.onclick = function(event) {
+window.onclick = function(close) {
   const Project = document.getElementById('work');
-  if (event.target === Project) {
+  if (close.target === Project) {
     Project.style.display = 'none';
   }
+
 };

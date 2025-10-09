@@ -57,13 +57,13 @@
     "category": "animation",
     "images": [
       "Project/Model/BG_porfolio.png",
-      "Project/Model/Xeno1.png",
-      "Project/Model/Xeno2.png",
-      "Project/Model/Xeno3.png"
+      "Project/Animation/Xeno1.png",
+      "Project/Animation/Xeno2.png",
+      "Project/Animation/Xeno3.png"
 
 
     ],
-    "description": "ss",
+    "description": "a introduction animation of my original character, Xeno.",
     "link": "https://www.youtube.com/watch?v=-YnvejIMda4"
   },
 
@@ -78,7 +78,7 @@
        "Project/Model/Eternalnight3.png",
      "Project/Model/Eternalnight4.png"
     ],
-    "description": "ss",
+    "description": "MainBoss of my game project,",
     "link": "Project/Model/Eternalnight1.png"
   },
 
@@ -92,7 +92,7 @@
        "Project/Model/XenoModel2.png",
      "Project/Model/XenoModel3.png"
     ],
-    "description": "ss",
+    "description": "I created a 3D model of my original character, Xeno.",
     "link": "Project/Model/XenoModel0.png"
   },
 
@@ -109,7 +109,7 @@
        "Project/Model/Tenochtitlan3.png",
      "Project/Model/Tenochtitlan4.png"
     ],
-    "description": "ss",
+    "description": "I create for Fanmade of Tenochtitlan from Fate series.",
     "link": "Project/Model/Tenochtitlan1.png"
   },
 
@@ -178,8 +178,7 @@
     "title": "BookCover",
     "category": "fullart",
     "images": [
-      "Project/Art/MAT180_PRO3.png" ,
-        "Project/Art/MAT180_PRO4.png"
+      "Project/Art/MAT180_PRO3.png" 
 
     ],
     "description": "ss",
@@ -340,7 +339,7 @@
 
   ,
    {
-    "id": 23,
+    "id": 24,
     "title": "Elaina | Majo no Tabitabi",
     "category": "fanart",
     "images": [
@@ -352,7 +351,7 @@
 
    ,
    {
-    "id": 24,
+    "id": 25,
     "title": "JP to TH Translation | Shikkakumon no Saikyou Kenja Pv",
     "category": "project",
     "images": [
@@ -367,7 +366,7 @@
   
    ,
    {
-    "id": 25,
+    "id": 26,
     "title": "JP to TH Translation | Fumetsu no anata e PV ",
     "category": "project",
     "images": [
@@ -380,7 +379,7 @@
 
     ,
    {
-    "id": 26,
+    "id": 27,
     "title": "JP to TH Translation | Maou Gakuin No Futekigousha PV ",
     "category": "project",
     "images": [
@@ -394,7 +393,7 @@
 
      ,
    {
-    "id": 27,
+    "id": 28,
     "title": "Lycia ",
     "category": "character",
     "images": [
@@ -408,7 +407,7 @@
 
     ,
    {
-    "id": 28,
+    "id": 29,
     "title": "Sejo ",
     "category": "character",
     "images": [
@@ -423,7 +422,7 @@
 
    ,
    {
-    "id": 29,
+    "id": 30,
     "title": "REI",
     "category": "character",
     "images": [
@@ -435,7 +434,7 @@
   }
  ,
    {
-    "id": 30,
+    "id": 31,
     "title": "Archer",
     "category": "character",
     "images": [
@@ -449,7 +448,7 @@
 
   ,
    {
-    "id": 31,
+    "id": 32,
     "title": "Reaper",
     "category": "character",
     "images": [
