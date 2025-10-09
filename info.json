@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "MirEbon",
+    "title": "GAME | MirEbon",
     "category": "project",
     "images": [
       "Project/GAME/MirEbon/MirEbon1.png",
@@ -16,7 +16,7 @@
 
   {
     "id": 2,
-    "title": "The Ruler | Fallen  Legend",
+    "title": "GAME | The Ruler | Fallen  Legend",
     "category": "project",
     "images": [
       "Project/GAME/The_Ruler/Poster_Game1_1.png",
@@ -33,7 +33,7 @@
 
   {
     "id": 3,
-    "title": "Just follow the Rhythm",
+    "title": "GAME | Just follow the Rhythm",
     "category": "project",
     "images": [
       "Project/GAME/Just_follow_the_Rhythm/Just_follow_the Rhythm1.png",
@@ -44,7 +44,7 @@
 
 
     ],
-    "description": "ss",
+    "description": "a rhythm game that I created for MMI320. (SoloDev)",
     "link": "https://frame5482.itch.io/just-follow-the-rhythm"
   },
   
