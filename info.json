@@ -1,16 +1,155 @@
 [
   {
     "id": 1,
-    "title": "Project A",
+    "title": "MirEbon",
     "category": "project",
     "images": [
-      ""
+      "Project/GAME/MirEbon/MirEbon1.png",
+      "Project/GAME/MirEbon/MirEbon2.png",
+      "Project/GAME/MirEbon/MirEbon3.png",
+      "Project/GAME/MirEbon/MirEbon4.png"
+
     ],
-    "description": "Muhaahahahhaha",
-    "link": "index.html"
+    "description": "A turn base game I devolop  by my self. (SoloDev)",
+    "link": "https://www.youtube.com/watch?v=yzPb581jl2c"
   },
+
   {
     "id": 2,
+    "title": "The Ruler | Fallen  Legend",
+    "category": "project",
+    "images": [
+      "Project/GAME/The_Ruler/Poster_Game1_1.png",
+       "Project/GAME/The_Ruler/Ruler1.png",
+        "Project/GAME/The_Ruler/Ruler1.png",
+        "Project/GAME/The_Ruler/Ruler3.png" 
+        
+
+    ],
+    "description": "A game that I sent to contest in GAME TALENT SHOWCASE 2022. And I was one of the 30 teams that made it to the finals. (I am GameDesigner and Programmer)",
+    "link": "https://www.youtube.com/watch?v=tcyWoshISLM"
+  },
+
+
+  {
+    "id": 3,
+    "title": "Just follow the Rhythm",
+    "category": "project",
+    "images": [
+      "Project/GAME/Just_follow_the_Rhythm/Just_follow_the Rhythm1.png",
+      "Project/GAME/Just_follow_the_Rhythm/Just_follow_the Rhythm12.png",
+      "Project/GAME/Just_follow_the_Rhythm/Just_follow_the Rhythm3.png",
+      "Project/GAME/Just_follow_the_Rhythm/Just_follow_the Rhythm4.png"
+
+
+
+    ],
+    "description": "ss",
+    "link": "https://frame5482.itch.io/just-follow-the-rhythm"
+  },
+  
+
+
+
+  {
+    "id": 4,
+    "title": "Opening Charecter | Xeno",
+    "category": "animation",
+    "images": [
+      "Project/Model/BG_porfolio.png",
+      "Project/Model/Xeno1.png",
+      "Project/Model/Xeno2.png",
+      "Project/Model/Xeno3.png"
+
+
+    ],
+    "description": "ss",
+    "link": "https://www.youtube.com/watch?v=-YnvejIMda4"
+  },
+
+
+   {
+    "id": 5,
+    "title": "Eternalnight(WIP)",
+    "category": "model3d",
+    "images": [
+      "Project/Model/Eternalnight1.png",
+      "Project/Model/Eternalnight2.png",
+       "Project/Model/Eternalnight3.png",
+     "Project/Model/Eternalnight4.png"
+    ],
+    "description": "ss",
+    "link": "Project/Model/Eternalnight1.png"
+  },
+
+   {
+    "id": 6,
+    "title": "XenoModel",
+    "category": "model3d",
+    "images": [
+      "Project/Model/XenoModel0.png",
+      "Project/Model/XenoModel1.png",
+       "Project/Model/XenoModel2.png",
+     "Project/Model/XenoModel3.png"
+    ],
+    "description": "ss",
+    "link": "Project/Model/XenoModel0.png"
+  },
+
+
+
+
+   {
+    "id": 7,
+    "title": "Tenochtitlan | Fanart",
+    "category": "model3d",
+    "images": [
+      "Project/Model/Tenochtitlan1.png",
+      "Project/Model/Tenochtitlan2.png",
+       "Project/Model/Tenochtitlan3.png",
+     "Project/Model/Tenochtitlan4.png"
+    ],
+    "description": "ss",
+    "link": "Project/Model/Tenochtitlan1.png"
+  },
+
+ {
+    "id": 8,
+    "title": "Kaelith",
+    "category": "model3d",
+    "images": [
+      "Project/Model/Kaelith1.png",
+      "Project/Model/Kaelith2.png",
+       "Project/Model/Kaelith3.png",
+     "Project/Model/Kaelith4.png"
+    ],
+    "description": "ss",
+    "link": "Project/Model/Kaelith1.png"
+  },
+
+  {
+    "id": 9,
+    "title": "DemonXeno",
+    "category": "character",
+    "images": [
+      "Project/CharacterDesign/XenoDemonForm/DemonXeno_1.png",
+      "Project/CharacterDesign/XenoDemonForm/DemonXeno_2.png",
+      "Project/CharacterDesign/XenoDemonForm/DemonXeno_3.png",
+      "Project/CharacterDesign/XenoDemonForm/DemonXeno_4.png"
+    ],
+    "description": "ss",
+    "link": "Project/Model/Kaelith1.png"
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": 10,
     "title": "Mari | Blue Archive",
     "category": "fanart",
     "images": [
@@ -21,51 +160,304 @@
   },
 
   {
-    "id": 3,
-    "title": "Calotte",
+    "id": 11,
+    "title": "Phrolova | Wuthering Waves",
     "category": "fanart",
     "images": [
-      "Project/Art/Calotte.png"
+      "Project/Art/Phrolova.png"
     ],
     "description": "ss",
-    "link": "dsd"
+    "link": "https://www.facebook.com/share/p/1J5bpdxh5L/"
   }
+
+  
  
        ,
   {
-    "id": 4,
+    "id": 12,
     "title": "BookCover",
     "category": "fullart",
     "images": [
-      "Project/Art/MAT180_PRO3.png"
+      "Project/Art/MAT180_PRO3.png" ,
+        "Project/Art/MAT180_PRO4.png"
+
     ],
     "description": "ss",
-    "link": "dsd"
+    "link": "https://www.facebook.com/share/p/1XVKJeSr4Z/"
   }
 
    ,
   {
-    "id": 5,
-    "title": "Teno",
+    "id": 13,
+    "title": "Luna",
     "category": "fullart",
     "images": [
       "Project/Art/MAT108_po.png"
     ],
     "description": "ss",
-    "link": "dsd"
+    "link": "Project/Art/MAT108_po.png"
   }
   
-  ,
+   ,
   {
-    "id": 6,
-    "title": "Teno",
+    "id": 14,
+    "title": "JP to TH Translation| Majo no Tabitabi PV",
+    "category": "project",
+    "images": [
+      "Project/Translate/Majonotabitabi1.png",
+       "Project/Translate/Majonotabitabi2.png"
+
+    ],
+    "description": "I Translation it for learing an japanese language",
+    "link": "https://drive.google.com/file/d/1wWyvHpPnL6EoQPhYya1gYtuzv1vLzGAv/view?usp=sharing"
+  }
+  ,
+
+  
+  
+  {
+    "id": 15,
+    "title": "Chicken | Assessment 3",
     "category": "assessment",
     "images": [
-      "Project/Art/MAT108_po.png"
+      "Project/Assignment/Week3_1.png",
+      "Project/Assignment/Week3_2.png"
+
     ],
-    "description": "ss",
+    "description": "MDT 312 Assessment",
     "link": "Project/Assignment/assignment_3/Chicken.html"
+  } 
+  ,
+  {
+    "id": 16,
+    "title": "Pizza | Assessment 4",
+    "category": "assessment",
+    "images": [
+      "Project/Assignment/Week4_1.png",
+      "Project/Assignment/Week4_2.png"
+
+    ],
+    "description": "MDT 312 Assessment",
+    "link": "Project/Assignment/assignment4/Pizza.html"
+  } 
+,
+   {
+    "id": 17,
+    "title": "Blog | Assessment 5",
+    "category": "assessment",
+    "images": [
+      "Project/Assignment/Week5_1.png",
+      "Project/Assignment/Week5_2.png"
+
+    ],
+    "description": "MDT 312 Assessment",
+    "link": "Project/Assignment/assignment5/Blog.html"
+  } 
+
+,
+
+  {
+    "id": 18,
+    "title": "Register and login | Assessment 6",
+    "category": "assessment",
+    "images": [
+      "Project/Assignment/Week6_1.png",
+      "Project/Assignment/Week6_2.png"
+
+    ],
+    "description": "MDT 312 Assessment",
+    "link": "Project/Assignment/assignment6/register.html"
+  } 
+
+
+  ,
+
+  {
+    "id": 19,
+    "title": "Square game | Assessment 7",
+    "category": "assessment",
+    "images": [
+      "Project/Assignment/Week7_1.png",
+      "Project/Assignment/Week7_2.png"
+
+    ],
+    "description": "MDT 312 Assessment",
+    "link": "Project/Assignment/assignment7/Square.html"
+  } 
+
+
+
+  ,
+  {
+    "id": 20,
+    "title": "Camellya Valentine Date | WutheringWaves [Fanmade animation]",
+    "category": "animation",
+    "images": [
+      "Project/Animation/Camellya1.png",
+      "Project/Animation/Camellya2.png"
+
+    ],
+    "description": "MDT 312 Assessment",
+    "link": "https://www.youtube.com/watch?v=AOK2-jKjoQ0"
+  } 
+,
+   {
+    "id": 21,
+    "title": "Calotte | Wuthering Waves",
+    "category": "fanart",
+    "images": [
+      "Project/Art/Calotte.png"
+    ],
+    "description": "Fanart For Calotte",
+    "link": "https://www.facebook.com/share/p/14TMDv3GjdU/"
   }
+
+,
+   {
+    "id": 22,
+    "title": "Tenochtitlan | Fate",
+    "category": "fanart",
+    "images": [
+      "Project/Art/MAT_108_W2_p.png"
+    ],
+    "description": "Fanart For Tenochtitlan",
+    "link": "https://www.facebook.com/share/p/1bVZiv91wi/"
+  }
+
+
+  ,
+   {
+    "id": 23,
+    "title": "Alice",
+    "category": "fullart",
+    "images": [
+      "Project/Art/MAT108_Pro3_p.png"
+    ],
+    "description": "I drew in alice in borderland theme",
+    "link": "https://www.facebook.com/share/p/1BeLxhakgM/"
+  }
+
+
+  ,
+   {
+    "id": 23,
+    "title": "Elaina | Majo no Tabitabi",
+    "category": "fanart",
+    "images": [
+      "Project/Art/Elaina.png"
+    ],
+    "description": "Fanart For Elaina",
+    "link": "https://www.facebook.com/share/p/1DPDqfwSE6/"
+  }
+
+   ,
+   {
+    "id": 24,
+    "title": "JP to TH Translation | Shikkakumon no Saikyou Kenja Pv",
+    "category": "project",
+    "images": [
+       "Project/Translate/Shikkakumon.png",
+       "Project/Translate/Shikkakumon2.png"
+    ],
+    "description": "I Translation it for learing an japanese language (you will see credit to Fushi. Fushi is my old penname)",
+    "link": "https://www.youtube.com/watch?v=fNGocKsN1ks"
+    
+  }
+
   
+   ,
+   {
+    "id": 25,
+    "title": "JP to TH Translation | Fumetsu no anata e PV ",
+    "category": "project",
+    "images": [
+       "Project/Translate/Fushi.png",
+       "Project/Translate/Fushi2.png"
+    ],
+    "description": "I Translation it for learing an japanese language",
+    "link": "https://drive.google.com/file/d/1hdHjqYkS2RvoxfylS_c_nDKxUItpZUka/view?usp=sharing"
+  }
+
+    ,
+   {
+    "id": 26,
+    "title": "JP to TH Translation | Maou Gakuin No Futekigousha PV ",
+    "category": "project",
+    "images": [
+       "Project/Translate/Maou1.png",
+       "Project/Translate/Maou2.png"
+    ],
+    "description": "I Translation it for learing an japanese language",
+    "link": "https://drive.google.com/file/d/15bcVQTDxEnba4adtYeuYXVJCTc7BTiyL/view?usp=sharing"
+  }
+
+
+     ,
+   {
+    "id": 27,
+    "title": "Lycia ",
+    "category": "character",
+    "images": [
+       "Project/CharacterDesign/Lycia/Lycia.png",
+      "Project/CharacterDesign/Lycia/Lycia2.png",
+      "Project/CharacterDesign/Lycia/Lycia3.png"
+   ],
+    "description": "She is a Guardian of Rosatier.",
+    "link": "Project/CharacterDesign/Lycia/Lycia.png"
+  }
+
+    ,
+   {
+    "id": 28,
+    "title": "Sejo ",
+    "category": "character",
+    "images": [
+       "Project/CharacterDesign/Sejo/Sejo1.png",
+      "Project/CharacterDesign/Sejo/Sejo2.png",
+      "Project/CharacterDesign/Sejo/Sejo3.png",
+      "Project/CharacterDesign/Sejo/Sejo4.png"
+   ],
+    "description": "",
+    "link": "Project/CharacterDesign/Sejo/Sejo1.png"
+  }
+
+   ,
+   {
+    "id": 29,
+    "title": "REI",
+    "category": "character",
+    "images": [
+       "Project/CharacterDesign/REI/REIIDEL.png",
+      "Project/CharacterDesign/REI/REIIDEL2.png"
+   ],
+    "description": "He is a Main Character of MirEbon.",
+    "link": "Project/CharacterDesign/REI/REIIDEL.png"
+  }
+ ,
+   {
+    "id": 30,
+    "title": "Archer",
+    "category": "character",
+    "images": [
+       "Project/CharacterDesign/GUN/Archer1.png",
+      "Project/CharacterDesign/GUN/Archer2.png"
+   ],
+    "description": "She character of my card game project.",
+    "link": "Project/CharacterDesign/GUN/Archer1.png"
+
+  }
+
+  ,
+   {
+    "id": 31,
+    "title": "Reaper",
+    "category": "character",
+    "images": [
+       "Project/CharacterDesign/reaper/reaper.png",
+      "Project/CharacterDesign/reaper/reaper2.png"
+   ],
+    "description": "She character of my card game project.",
+    "link":  "Project/CharacterDesign/reaper/reaper.png"
+  }
 
 ]
