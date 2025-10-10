@@ -10,8 +10,8 @@
       "Project/GAME/MirEbon/MirEbon4.png"
 
     ],
-    "description": "A turn base game I devolop  by my self.(SoloDev)",
-    "link": "https://www.youtube.com/watch?v=yzPb581jl2c"
+    "description": "turn base game I devolop  by my self. (SoloDev)",
+    "link": "https://frame5482.itch.io/mirebon"
   },
 
   {
@@ -21,12 +21,12 @@
     "images": [
       "Project/GAME/The_Ruler/Poster_Game1_1.png",
        "Project/GAME/The_Ruler/Ruler1.png",
-        "Project/GAME/The_Ruler/Ruler1.png",
+        "Project/GAME/The_Ruler/Ruler2.png",
         "Project/GAME/The_Ruler/Ruler3.png" 
         
 
     ],
-    "description": "A game that I sent to contest in GAME TALENT SHOWCASE 2022. And I was one of the 30 teams that made it to the finals.(I am GameDesigner and Programmer)",
+    "description": " I sent this game to contest in GAME TALENT SHOWCASE 2022. And I was one of the 30 teams that made it to the finals. (I am GameDesigner and Programmer)",
     "link": "https://www.youtube.com/watch?v=tcyWoshISLM"
   },
 
@@ -44,7 +44,7 @@
 
 
     ],
-    "description": "a rhythm game that I created for MMI320.(SoloDev)",
+    "description": "a rhythm game that I created for MMI320. (SoloDev)",
     "link": "https://frame5482.itch.io/just-follow-the-rhythm"
   },
   
@@ -123,13 +123,13 @@
        "Project/Model/Kaelith3.png",
      "Project/Model/Kaelith4.png"
     ],
-    "description": "ss",
+    "description": "He is a Main Character in my game Project.",
     "link": "Project/Model/Kaelith1.png"
   },
 
   {
     "id": 9,
-    "title": "DemonXeno",
+    "title": "Xeno",
     "category": "character",
     "images": [
       "Project/CharacterDesign/XenoDemonForm/DemonXeno_1.png",
@@ -137,8 +137,9 @@
       "Project/CharacterDesign/XenoDemonForm/DemonXeno_3.png",
       "Project/CharacterDesign/XenoDemonForm/DemonXeno_4.png"
     ],
-    "description": "ss",
-    "link": "Project/Model/Kaelith1.png"
+    "description": "she is my mascot",
+    "link":"Project/CharacterDesign/XenoDemonForm/DemonXeno_1.png"
+
   },
 
 
@@ -155,8 +156,8 @@
     "images": [
       "Project/Art/Mari_ref.png"
     ],
-    "description": "ss",
-    "link": "dsd"
+    "description": "I drew Mari form Blue Archive by ref a jonh wick poster ",
+    "link": "https://www.facebook.com/share/p/1GjYhFqCYx/"
   },
 
   {
@@ -166,7 +167,7 @@
     "images": [
       "Project/Art/Phrolova.png"
     ],
-    "description": "ss",
+    "description": "I drew a fanart for Phrolova",
     "link": "https://www.facebook.com/share/p/1J5bpdxh5L/"
   }
 
@@ -181,7 +182,7 @@
       "Project/Art/MAT180_PRO3.png" 
 
     ],
-    "description": "ss",
+    "description": "a bookcover of novel",
     "link": "https://www.facebook.com/share/p/1XVKJeSr4Z/"
   }
 
@@ -193,7 +194,7 @@
     "images": [
       "Project/Art/MAT108_po.png"
     ],
-    "description": "ss",
+    "description": "I dessign in india theme",
     "link": "Project/Art/MAT108_po.png"
   }
   
@@ -401,7 +402,7 @@
       "Project/CharacterDesign/Lycia/Lycia2.png",
       "Project/CharacterDesign/Lycia/Lycia3.png"
    ],
-    "description": "She is a Guardian of Rosatier.",
+    "description": "A Character in MirEbon. She is a Guardian of Rosatier.",
     "link": "Project/CharacterDesign/Lycia/Lycia.png"
   }
 
@@ -416,7 +417,7 @@
       "Project/CharacterDesign/Sejo/Sejo3.png",
       "Project/CharacterDesign/Sejo/Sejo4.png"
    ],
-    "description": "",
+    "description": "I design her in concept joan of arc and priest",
     "link": "Project/CharacterDesign/Sejo/Sejo1.png"
   }
 
@@ -426,8 +427,7 @@
     "title": "REI",
     "category": "character",
     "images": [
-       "Project/CharacterDesign/REI/REIIDEL.png",
-      "Project/CharacterDesign/REI/REIIDEL2.png"
+       "Project/CharacterDesign/REI/REIIDEL.png"
    ],
     "description": "He is a Main Character of MirEbon.",
     "link": "Project/CharacterDesign/REI/REIIDEL.png"
@@ -438,10 +438,9 @@
     "title": "Archer",
     "category": "character",
     "images": [
-       "Project/CharacterDesign/GUN/Archer1.png",
-      "Project/CharacterDesign/GUN/Archer2.png"
+       "Project/CharacterDesign/GUN/Archer1.png"
    ],
-    "description": "She character of my card game project.",
+    "description": "She is character in my card game project.",
     "link": "Project/CharacterDesign/GUN/Archer1.png"
 
   }
@@ -452,10 +451,9 @@
     "title": "Reaper",
     "category": "character",
     "images": [
-       "Project/CharacterDesign/reaper/reaper.png",
-      "Project/CharacterDesign/reaper/reaper2.png"
+       "Project/CharacterDesign/reaper/reaper.png"
    ],
-    "description": "She character of my card game project.",
+    "description": "She is character in my card game project.",
     "link":  "Project/CharacterDesign/reaper/reaper.png"
   }
 
